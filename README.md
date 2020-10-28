@@ -1,5 +1,5 @@
 # Kaggle-Forecasting-Learning
-A forecasting walktrhough from a Kaggle notebook. Most part of the walkthrough was with the intention to learn from it.
+A forecasting walk-through from a Kaggle notebook. 
 
 Reference:<br/>
 [Philipp Spachtholz](https://www.kaggle.com/philippsp/exploratory-analysis-zillow)<br/>
