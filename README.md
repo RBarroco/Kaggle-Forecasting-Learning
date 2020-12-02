@@ -1,3 +1,6 @@
+If the project is not visible on github, you can use this link:<br/>
+https://nbviewer.jupyter.org/github/RBarroco/Kaggle-Forecasting-Learning/blob/master/Zillow%20House%20Exploratory%20Data%20Analysis.ipynb
+
 # Kaggle-Forecasting-Learning
 A forecasting walk-through from a Kaggle notebook. 
 
